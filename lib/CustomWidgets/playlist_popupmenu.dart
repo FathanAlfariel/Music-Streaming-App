@@ -1,8 +1,8 @@
 import 'package:audio_service/audio_service.dart';
-import 'package:blackhole/CustomWidgets/snackbar.dart';
-import 'package:blackhole/Helpers/mediaitem_converter.dart';
-import 'package:blackhole/Helpers/playlist.dart';
-import 'package:blackhole/Screens/Player/audioplayer.dart';
+import 'package:gramovy/CustomWidgets/snackbar.dart';
+import 'package:gramovy/Helpers/mediaitem_converter.dart';
+import 'package:gramovy/Helpers/playlist.dart';
+import 'package:gramovy/Screens/Player/audioplayer.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:get_it/get_it.dart';

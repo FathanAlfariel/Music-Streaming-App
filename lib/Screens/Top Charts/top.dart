@@ -1,8 +1,8 @@
-import 'package:blackhole/CustomWidgets/custom_physics.dart';
-import 'package:blackhole/CustomWidgets/empty_screen.dart';
-import 'package:blackhole/Helpers/countrycodes.dart';
-import 'package:blackhole/Screens/Search/search.dart';
-import 'package:blackhole/Screens/Settings/setting.dart';
+import 'package:gramovy/CustomWidgets/custom_physics.dart';
+import 'package:gramovy/CustomWidgets/empty_screen.dart';
+import 'package:gramovy/Helpers/countrycodes.dart';
+import 'package:gramovy/Screens/Search/search.dart';
+import 'package:gramovy/Screens/Settings/setting.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';

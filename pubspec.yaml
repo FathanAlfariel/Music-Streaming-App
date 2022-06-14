@@ -1,4 +1,4 @@
-name: blackhole
+name: gramovy
 description: An Open Source Music Player App.
 
 # Prevent accidental publishing to pub.dev.
@@ -68,9 +68,9 @@ flutter:
     - assets/
 
 msix_config:
-  display_name: BlackHole
-  publisher_display_name: Ankit Sangwan
-  identity_name: com.shadow.blackhole
+  display_name: Gramovy
+  publisher_display_name: Faril
+  identity_name: com.shadow.gramovy
   icons_background_color: transparent
   logo_path: assets/ic_launcher.png
   file_extension: .mp3, .m4a

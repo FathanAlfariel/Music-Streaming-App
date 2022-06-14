@@ -1,7 +1,7 @@
-import 'package:blackhole/CustomWidgets/like_button.dart';
-import 'package:blackhole/CustomWidgets/on_hover.dart';
-import 'package:blackhole/CustomWidgets/song_tile_trailing_menu.dart';
-import 'package:blackhole/Helpers/mediaitem_converter.dart';
+import 'package:gramovy/CustomWidgets/like_button.dart';
+import 'package:gramovy/CustomWidgets/on_hover.dart';
+import 'package:gramovy/CustomWidgets/song_tile_trailing_menu.dart';
+import 'package:gramovy/Helpers/mediaitem_converter.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 
